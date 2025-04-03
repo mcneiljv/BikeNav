@@ -1,5 +1,9 @@
 {
-  "name": "bikenav2",
+  "name": "bikenav",
+  "author": {
+    "name": "Jamie McNeill",
+    "email": "jamiemcneil@gmail.com"
+  },
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {

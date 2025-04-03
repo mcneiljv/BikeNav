@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BikeNav2",
-    "slug": "BikeNav2",
+    "name": "BikeNav",
+    "slug": "BikeNav",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
